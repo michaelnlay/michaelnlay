@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Personal Portfolio**
+- 🔭 I’m currently working on **Financial Application Tracker, and Personal Portfolio**
 
 - 🌱 I’m currently learning **MERN (MongoDB, Express, React.js and Node.js)**
 
